@@ -1,0 +1,145 @@
+Major,Semester,Student Year,Subject Code,Subject Name,Credit Hours,Prerequisite
+Computer Science,1,1,CS101,Electronics,3,
+Computer Science,1,1,CS102,English 1,3,
+Computer Science,1,1,CS103,English 2,3,English 1
+Computer Science,1,1,CS104,Fundamentals of Information Systems,3,
+Computer Science,1,1,CS105,Introduction to Computer,3,
+Computer Science,1,1,CS106,Mathematics 1,3,
+Computer Science,2,1,CS107,Physics,3,
+Computer Science,2,1,CS108,Principles of Management,3,
+Computer Science,2,1,CS109,Probability and Statistics,3,
+Computer Science,2,1,CS110,Programming Language 1,3,
+Computer Science,2,1,CS111,Principles of Economics,3,
+Computer Science,1,2,CS112,Algorithms,3,Data Structures
+Computer Science,1,2,CS113,Business Law,3,
+Computer Science,1,2,CS114,Computer Architecture and Organization,3,
+Computer Science,1,2,CS115,Data Structures,3,
+Computer Science,1,2,CS116,Database 1,3,
+Computer Science,1,2,CS117,Digital Logic Design,3,
+Computer Science,1,2,CS118,Discrete Structures,3,
+Computer Science,2,2,CS119,Mathematics 2,3,
+Computer Science,2,2,CS120,Professional Ethics,3,
+Computer Science,2,2,CS121,Programming Language 2,3,Programming Language 1
+Computer Science,2,2,CS122,Strategic Management,3,
+Computer Science,2,2,CS123,Visual Programming,3,
+Computer Science,2,2,CS124,Principles of Accounting,3,
+Computer Science,1,3,CS125,Automata Theory,3,
+Computer Science,1,3,CS126,Computer Graphics,3,
+Computer Science,1,3,CS127,Computer Networks 1,3,
+Computer Science,1,3,CS128,Database System 2,3,Database 1
+Computer Science,1,3,CS129,Mathematics 3,3,
+Computer Science,1,3,CS130,Operating Systems 1,3,Computer Architecture and Organization
+Computer Science,1,3,CS131,Operations Research,3,
+Computer Science,2,3,CS132,Principles of Marketing,3,
+Computer Science,2,3,CS133,Project Management,3,
+Computer Science,2,3,CS134,Report Writing,3,
+Computer Science,2,3,CS135,System Analysis and Design,3,
+Computer Science,2,3,CS136,Systems Programming,3,Operating Systems 1
+Computer Science,2,3,CS137,Web Programming,3,Programming Language 2
+Computer Science,1,4,CS138,Artificial Intelligence,3,
+Computer Science,1,4,CS139,Computer Networks 2,3,Computer Networks 1
+Computer Science,1,4,CS140,Creative Thinking,3,
+Computer Science,1,4,CS141,Data Mining,3,Database 1
+Computer Science,1,4,CS142,Digital Image Processing,3,
+Computer Science,2,4,CS143,Information Security,3,
+Computer Science,2,4,CS144,Machine Learning,3,Artificial Intelligence
+Computer Science,2,4,CS145,Mobile Programming,3,
+Computer Science,2,4,CS146,Software Engineering,3,Programming Language 2
+Computer Science,2,4,CS147,Special Topics,3,
+Business Information Systems,1,1,BIS101,Creative Thinking,3,
+Business Information Systems,1,1,BIS102,Foreign Language 1,3,
+Business Information Systems,1,1,BIS103,Human Rights,3,
+Business Information Systems,1,1,BIS104,Mathematics of Business,3,
+Business Information Systems,1,1,BIS105,National Identity and Achievements,3,
+Business Information Systems,1,1,BIS106,Organizational Behavior,3,
+Business Information Systems,2,1,BIS107,Principles of Business Administration,3,
+Business Information Systems,2,1,BIS108,Principles of Economics,3,
+Business Information Systems,2,1,BIS109,Principles of Financial Accounting,3,
+Business Information Systems,2,1,BIS110,Principles of Law,3,
+Business Information Systems,2,1,BIS111,Communication Methods and Skills,3,
+Business Information Systems,1,2,BIS112,Communication Skills,3,
+Business Information Systems,1,2,BIS113,Production and Operations Management,3,
+Business Information Systems,1,2,BIS114,Logistics and Supply Chain Management,3,
+Business Information Systems,1,2,BIS115,Commercial Law,3,
+Business Information Systems,1,2,BIS116,Business Analytics,3,
+Business Information Systems,2,2,BIS117,Foreign Language 2,3,Foreign Language 1
+Business Information Systems,2,2,BIS118,Principles of Financial Management,3,
+Business Information Systems,2,2,BIS119,Principles of Marketing,3,
+Business Information Systems,2,2,BIS120,Principles of Cost Accounting,3,
+Business Information Systems,2,2,BIS121,Management Information Systems,3,
+Business Information Systems,1,3,BIS122,Public Enterprise Management,3,
+Business Information Systems,1,3,BIS123,Strategic Management,3,Principles of Business Administration
+Business Information Systems,1,3,BIS124,Information Technology Infrastructure,3,
+Business Information Systems,1,3,BIS125,Insurance and Risk Management,3,
+Business Information Systems,1,3,BIS126,Governmental and Non-Profit Accounting,3,
+Business Information Systems,2,3,BIS127,Information Systems Analysis and Design,3,Management Information Systems
+Business Information Systems,2,3,BIS128,Computer Programming Design,3,
+Business Information Systems,2,3,BIS129,Entrepreneurship and Small Enterprises,3,
+Business Information Systems,2,3,BIS130,Databases,3,
+Business Information Systems,2,3,BIS131,Macroeconomics,3,Principles of Economics
+Business Information Systems,1,4,BIS132,Human Resource Management,3,
+Business Information Systems,1,4,BIS133,Information Technology Risk and Security Management,3,
+Business Information Systems,1,4,BIS134,Information Systems Strategy,3,Management Information Systems
+Business Information Systems,1,4,BIS135,Applied Statistics,3,
+Business Information Systems,1,4,BIS136,Quantitative Methods and Decision Making,3,
+Business Information Systems,1,4,BIS137,E-Business,3,
+Business Information Systems,1,4,BIS138,Enterprise Information Systems,3,Management Information Systems
+Business Information Systems,2,4,BIS139,Business Analytics and Data Mining,3,Business Analytics
+Business Information Systems,2,4,BIS140,Computer Programming Applications,3,Computer Programming Design
+Business Information Systems,2,4,BIS141,Information Technology and Innovation,3,
+Business Information Systems,2,4,BIS142,Feasibility Studies,3,
+Business Information Systems,2,4,BIS143,Public Finance Principles,3,
+Business Information Systems,2,4,BIS144,Accounting Information Systems,3,Principles of Financial Accounting
+Business Administration,1,1,BA101,Communication Skills,3,
+Business Administration,1,1,BA102,Creative Thinking,3,
+Business Administration,1,1,BA103,Foreign Language 1,3,
+Business Administration,1,1,BA104,Human Rights,3,
+Business Administration,1,1,BA105,Mathematics of Business,3,
+Business Administration,1,1,BA106,National Identity and Achievements,3,
+Business Administration,2,1,BA107,Organizational Behavior,3,
+Business Administration,2,1,BA108,Principles of Business Administration,3,
+Business Administration,2,1,BA109,Principles of Economics,3,
+Business Administration,2,1,BA110,Principles of Financial Accounting,3,
+Business Administration,2,1,BA111,Principles of Law,3,
+Business Administration,1,2,BA112,Business Analytics,3,
+Business Administration,1,2,BA113,Commercial Law,3,
+Business Administration,1,2,BA114,Foreign Language 2,3,Foreign Language 1
+Business Administration,1,2,BA115,Logistics and Supply Chain,3,
+Business Administration,1,2,BA116,Management Information System,3,
+Business Administration,1,2,BA117,Principles of Microeconomics,3,
+Business Administration,2,2,BA118,Principles of Cost Accounting,3,Principles of Financial Accounting
+Business Administration,2,2,BA119,Principles of Management Accounting,3,Principles of Financial Accounting
+Business Administration,2,2,BA120,Principles of Financial Management,3,
+Business Administration,2,2,BA121,Production and Operations Management,3,
+Business Administration,2,2,BA122,Principles of Marketing,3,
+Business Administration,1,3,BA123,Crisis Management,3,
+Business Administration,1,3,BA124,Economics of Money and Banking,3,
+Business Administration,1,3,BA125,Economics of Public Services,3,
+Business Administration,1,3,BA126,Entrepreneurship and Small Enterprises,3,
+Business Administration,1,3,BA127,Ethics and Corporate Governance,3,
+Business Administration,1,3,BA128,Governmental Accounting and Non-Profit Organizations,3,
+Business Administration,1,3,BA129,International Business,3,
+Business Administration,1,3,BA130,International Institutions,3,
+Business Administration,1,3,BA131,Macroeconomics,3,Principles of Economics
+Business Administration,2,3,BA132,Marketing Communication,3,
+Business Administration,2,3,BA133,Marketing Management,3,Principles of Marketing
+Business Administration,2,3,BA134,Negotiation Management,3,
+Business Administration,2,3,BA135,Organization Theory,3,
+Business Administration,2,3,BA136,Principles of Investment,3,
+Business Administration,2,3,BA137,Public Enterprise Management,3,
+Business Administration,2,3,BA138,Risk Management and Insurance,3,
+Business Administration,2,3,BA139,Strategic Management,3,Organizational Behavior
+Business Administration,2,3,BA140,Total Quality Management,3,
+Business Administration,1,4,BA141,Advanced Financial Management,3,Principles of Financial Management
+Business Administration,1,4,BA142,Applied Statistics,3,
+Business Administration,1,4,BA143,Change Management,3,
+Business Administration,1,4,BA144,Derivatives and Portfolio Management,3,Principles of Investment
+Business Administration,1,4,BA145,E-Business,3,
+Business Administration,1,4,BA146,International Economics,3,
+Business Administration,1,4,BA147,International Finance,3,
+Business Administration,2,4,BA148,Leadership,3,
+Business Administration,2,4,BA149,Management of Human Resource,3,
+Business Administration,2,4,BA150,Public Finance,3,
+Business Administration,2,4,BA151,Quantitative Methods for Decision Making,3,
+Business Administration,2,4,BA152,Strategic Human Resource Management,3,Management of Human Resource
+Business Administration,2,4,BA153,Training and Human Resources Development,3,

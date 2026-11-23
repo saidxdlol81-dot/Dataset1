@@ -1,0 +1,186 @@
+Major,Semester,Student Year,Subject Code,Subject Name,Credit Hours,Prerequisite
+Computer Science,1,1,HUM 111,English 1,2,
+Computer Science,1,1,BSC 101,Calculus,3,
+Computer Science,1,1,BSC 121,Physics,3,
+Computer Science,1,1,CSC 101,Computer Science Fundamentals,3,
+Computer Science,1,1,CSC 141,Structured Programming,3,
+Computer Science,2,1,HUM 112,Technical Writing,2,English 1
+Computer Science,2,1,HUM 141,Human Rights and the Fight against Corruption,2,
+Computer Science,2,1,CSC 142,Object Oriented Programming,3,Structured Programming
+Computer Science,2,1,BSC 131,Electronics,3,Physics
+Computer Science,2,1,BSC 102,Discrete Mathematics,3,Calculus
+Computer Science,1,2,CSC 201,Introduction to Information Systems,3,Computer Science Fundamentals
+Computer Science,1,2,CSC 211,Data Structures,3,Structured Programming
+Computer Science,1,2,BSC 212,Probability and Statistics and Statistical Analysis,3,
+Computer Science,1,2,CSC 221,Logic Design,3,Electronics
+Computer Science,1,2,BSC 203,Linear Algebra,3,
+Computer Science,1,2,CSC 241,Databases 1,3,Computer Science Fundamentals
+Computer Science,2,2,CSC 232,Systems Analysis and Design 1,3,Computer Science Fundamentals
+Computer Science,2,2,CSC 231,Introduction to Computer Networks,3,Computer Science Fundamentals
+Computer Science,2,2,CSC 213,Design and Analysis of Algorithms,3,Data Structures
+Computer Science,2,2,BSC 204,Differential Equations and Transformation,3,Calculus
+Computer Science,2,2,CSC 222,Computer Architecture,3,Logic Design
+Computer Science,1,3,CSC 323,Operating Systems,3,Computer Science Fundamentals
+Computer Science,1,3,BSC 305,Numerical Computing,3,
+Computer Science,1,3,CSC 301,Artificial Intelligence,3,Probability and Statistics and Statistical Analysis
+Computer Science,1,3,CSC 391,Software Engineering 1,3,Design and Analysis of Algorithms
+Computer Science,1,3,CSC 324,Microprocessors and Assembly Language,3,Computer Architecture
+Computer Science,2,3,CSC 332,Advanced Computer Networks,3,Introduction to Computer Networks
+Computer Science,2,3,CSC 312,Information Storage and Management,3,Introduction to Computer Networks
+Computer Science,2,3,CSC 341,Neural Networks,3,Artificial Intelligence
+Computer Science,2,3,CSC 371,Computer Security,3,Design and Analysis of Algorithms
+Computer Science,2,3,CSC 351,Computer Graphics,3,Structured Programming
+Computer Science,1,4,CSC 452,Image Processing,3,Linear Algebra
+Computer Science,1,4,CSC 433,Cloud Computing,3,Introduction to Computer Networks
+Computer Science,1,4,CSC 411,Machine Learning,3,Artificial Intelligence
+Computer Science,1,4,CSC 498,Project 1,3,
+Computer Science,2,4,CSC 453,Computer Vision,3,Linear Algebra
+Computer Science,2,4,CSC 434,Internet of Things,3,Structured Programming
+Computer Science,2,4,CSC 443,Compilers,3,Design and Analysis of Algorithms
+Computer Science,2,4,CSC 499,Project 2,3,Project 1
+Computer Science,1,1,HUM 113,Communication and Presentation Skills (Elective),2,
+Computer Science,1,1,HUM 131,Marketing and Sales (Elective),2,
+Computer Science,1,1,HUM 121,Organizational Behavior (Elective),2,
+Computer Science,1,1,HUM 151,History of Computing (Elective),2,
+Computer Science,2,1,HUM 142,Professional Ethics (Elective),2,
+Computer Science,2,1,HUM 114,English 2 (Elective),2,English 1
+Computer Science,2,1,HUM 132,Business Administration (Elective),2,
+Computer Science,2,1,HUM 133,Fundamentals of Economics (Elective),2,
+Computer Science,1,4,HUM 152,Selected Topics in Humanities (Elective),2,
+Computer Science,1,3,CSC 355,Human-Computer Interaction (Elective),3,Design and Analysis of Algorithms
+Computer Science,1,3,CSC 358,Multimedia (Elective),3,Computer Science Fundamentals
+Computer Science,1,3,CSC 344,Logic Programming (Elective),3,Object Oriented Programming
+Computer Science,1,3,CSC 345,Parallel Programming (Elective),3,Design and Analysis of Algorithms
+Computer Science,1,3,CSC 302,Selected Topics in Computer Science 1 (Elective),3,
+Computer Science,2,3,CSC 342,Deep Learning (Elective),3,Neural Networks
+Computer Science,2,3,CSC 352,Natural Language Processing (Elective),3,Artificial Intelligence
+Computer Science,2,3,CSC 325A,Knowledge Representation (Elective),3,Artificial Intelligence
+Computer Science,2,3,CSC 325B,Digital Signal Processing (Elective),3,Differential Equations and Transformation
+Computer Science,1,4,CSC 454,Virtual and Augmented Reality (Elective),3,Computer Graphics
+Computer Science,1,4,CSC 456,Computer Animation (Elective),3,Computer Graphics
+Computer Science,1,4,CSC 457,Game Design and Development (Elective),3,Design and Analysis of Algorithms
+Computer Science,1,4,CSC 461A,Data Science (Elective),3,Machine Learning
+Computer Science,1,4,CSC 462,Introduction to Embedded Systems (Elective),3,Microprocessors and Assembly Language
+Computer Science,2,4,CSC 431,Robotics (Elective),3,Artificial Intelligence
+Computer Science,2,4,CSC 446,Web Programming (Elective),3,Structured Programming
+Computer Science,2,4,CSC 461B,Distributed Computing (Elective),3,Operating Systems
+Computer Science,2,4,CSC 421,Software Project Management (Elective),3,Systems Analysis and Design 1
+Computer Science,2,4,CSC 448,Open Source System Development (Elective),3,Object Oriented Programming
+Computer Science,2,4,CSC 403,Selected Topics in Computer Science 2 (Elective),3,
+Business Information Systems,1,1,BIS 112,Principles of Economics,3,
+Business Information Systems,1,1,BIS 114,Foreign Language 1,3,
+Business Information Systems,1,1,BIS 212,Principles of Financial Accounting,3,
+Business Information Systems,1,1,BIS 211,Principles of Business Administration,3,
+Business Information Systems,1,1,BIS 113,Principles of Law,3,
+Business Information Systems,1,1,BIS 121,Principles of Political Science (Elective),3,
+Business Information Systems,1,1,BIS 122,National Identity and Achievements (Elective),3,
+Business Information Systems,2,1,BIS 111,Creative Thinking,3,
+Business Information Systems,2,1,BIS 216,Organizational Behavior,3,
+Business Information Systems,2,1,BIS 115,Communication Methods and Skills,3,
+Business Information Systems,2,1,BIS 214,Mathematics of Business,3,
+Business Information Systems,2,1,BIS 123,Human Rights (Elective),3,
+Business Information Systems,2,1,BIS 124,Man and Genius of Place (Elective),3,
+Business Information Systems,1,2,BIS 213,Principles of Microeconomics,3,Principles of Economics
+Business Information Systems,1,2,BIS 310,Logistics and Supply Chain Management,3,
+Business Information Systems,1,2,BIS 311,Principles of Cost Accounting,3,Principles of Financial Accounting
+Business Information Systems,1,2,BIS 312,Principles of Marketing,3,Principles of Business Administration
+Business Information Systems,1,2,BIS 415,Commercial Law,3,Principles of Economics
+Business Information Systems,2,2,BIS 416,Business Analytics,3,
+Business Information Systems,2,2,BIS 313,Principles of Management Accounting,3,Principles of Financial Accounting
+Business Information Systems,2,2,BIS 215,Foreign Language 2,3,Foreign Language 1
+Business Information Systems,2,2,BIS 314,Production and Operations Management,3,Principles of Business Administration
+Business Information Systems,2,2,BIS 316,Principles of Financial Management,3,Principles of Financial Accounting
+Business Information Systems,2,2,BIS 511,Management Information Systems,3,Principles of Business Administration
+Business Information Systems,1,3,BIS S11,Computer Programming Design,3,Management Information Systems
+Business Information Systems,1,3,BIS S12,Databases,3,Management Information Systems
+Business Information Systems,1,3,BIS 411,Principles of Macroeconomics,3,Principles of Microeconomics
+Business Information Systems,1,3,BIS 317,Principles of Investment,3,Principles of Financial Management
+Business Information Systems,1,3,BIS 421,Insurance and Risk Management (Elective),3,Mathematics of Business
+Business Information Systems,1,3,BIS 422,International Economics (Elective),3,Principles of Macroeconomics
+Business Information Systems,1,3,BIS 423,Economics of Public Services (Elective),3,
+Business Information Systems,1,3,BIS 424,International Organizations (Elective),3,Principles of Political Science
+Business Information Systems,2,3,BIS 319,Entrepreneurship and Small Enterprises,3,Principles of Business Administration
+Business Information Systems,2,3,BIS 318,Strategic Management,3,Principles of Marketing; Principles of Management Accounting; Production and Operations Management; Human Resource Management; Principles of Financial Management
+Business Information Systems,2,3,BIS S13,Information Systems Analysis and Design,3,Management Information Systems
+Business Information Systems,2,3,BIS S14,Information Technology Infrastructure,3,Management Information Systems
+Business Information Systems,2,3,BIS 321,Total Quality Management (Elective),3,Production and Operations Management
+Business Information Systems,2,3,BIS 322,Negotiation Management (Elective),3,Principles of Marketing; Production and Operations Management
+Business Information Systems,2,3,BIS 323,Public Enterprise Management (Elective),3,Principles of Business Administration
+Business Information Systems,2,3,BIS 324,Crisis Management (Elective),3,Principles of Business Administration
+Business Information Systems,2,3,BIS 325,Organization Theory (Elective),3,Organizational Behavior
+Business Information Systems,2,3,BIS 326,Accounting in Governmental and Non-Profit Units (Elective),3,Principles of Financial Accounting
+Business Information Systems,1,4,BIS 413,Principles of Public Finance,3,Principles of Macroeconomics
+Business Information Systems,1,4,BIS 414,Quantitative Methods and Decision Making,3,Applied Statistics
+Business Information Systems,1,4,BIS S15,Enterprise Information Systems,3,Management Information Systems
+Business Information Systems,1,4,BIS S16,Business Analytics and Data Mining,3,Databases
+Business Information Systems,1,4,BIS S21,Applications in Computer Programming (Elective),3,Computer Programming Design
+Business Information Systems,1,4,BIS S22,Information Technology and Innovation (Elective),3,Databases
+Business Information Systems,1,4,BIS S23,IT Risk and Security Management (Elective),3,Information Technology Infrastructure
+Business Information Systems,1,4,BIS B24,Project Management (Elective),3,Principles of Marketing; Human Resource Management; Principles of Financial Management; Quantitative Methods and Decision Making
+Business Information Systems,1,4,BIS A13,Accounting Information Systems (Elective),3,Principles of Management Accounting; Management Information Systems
+Business Information Systems,1,4,BIS B21,Project Feasibility Studies (Elective),3,Principles of Cost Accounting; Principles of Marketing; Production and Operations Management; Principles of Financial Management
+Business Information Systems,2,4,BIS 512,E-Business,3,Management Information Systems
+Business Information Systems,2,4,BIS 315,Human Resource Management,3,
+Business Information Systems,2,4,BIS 412,Applied Statistics,3,Mathematics of Business
+Business Information Systems,2,4,BIS S17,Information Systems Strategy,3,Information Technology Infrastructure; Enterprise Information Systems
+Business Administration,1,1,BA 112,Principles of Economics,3,
+Business Administration,1,1,BA 114,Foreign Language 1,3,
+Business Administration,1,1,BA 212,Principles of Financial Accounting,3,
+Business Administration,1,1,BA 211,Principles of Business Administration,3,
+Business Administration,1,1,BA 113,Principles of Law,3,
+Business Administration,1,1,BA 121,Principles of Political Science (Elective),3,
+Business Administration,1,1,BA 122,National Identity and Achievements (Elective),3,
+Business Administration,2,1,BA 111,Creative Thinking,3,
+Business Administration,2,1,BA 216,Organizational Behavior,3,
+Business Administration,2,1,BA 115,Communication Methods and Skills,3,
+Business Administration,2,1,BA 214,Mathematics of Business,3,
+Business Administration,2,1,BA 123,Human Rights (Elective),3,
+Business Administration,2,1,BA 124,Man and Genius of Place (Elective),3,
+Business Administration,1,2,BA 213,Principles of Microeconomics,3,Principles of Economics
+Business Administration,1,2,BA 310,Logistics and Supply Chain Management,3,
+Business Administration,1,2,BA 311,Principles of Cost Accounting,3,Principles of Financial Accounting
+Business Administration,1,2,BA 312,Principles of Marketing,3,Principles of Business Administration
+Business Administration,1,2,BA 415,Commercial Law,3,Principles of Economics
+Business Administration,2,2,BA 416,Business Analytics,3,
+Business Administration,2,2,BA 313,Principles of Management Accounting,3,Principles of Financial Accounting
+Business Administration,2,2,BA 215,Foreign Language 2,3,Foreign Language 1
+Business Administration,2,2,BA 314,Production and Operations Management,3,Principles of Business Administration
+Business Administration,2,2,BA 316,Principles of Financial Management,3,Principles of Financial Accounting
+Business Administration,2,2,BA 511,Management Information Systems,3,Principles of Business Administration
+Business Administration,1,3,BA 411,Principles of Macroeconomics,3,Principles of Microeconomics
+Business Administration,1,3,BA 317,Principles of Investment,3,Principles of Financial Management
+Business Administration,1,3,BA B11,Business Ethics and Corporate Governance,3,Principles of Business Administration; Principles of Financial Accounting
+Business Administration,1,3,BA M11,Marketing Management (Elective),3,Principles of Marketing
+Business Administration,1,3,BA M14,International Marketing (Elective),3,Marketing Management
+Business Administration,1,3,BA M15,Integrated Marketing Communications (Elective),3,Marketing Management
+Business Administration,1,3,BA M16,Services Marketing (Elective),3,Marketing Management
+Business Administration,1,3,BA 421,Insurance and Risk Management (Elective),3,Mathematics of Business
+Business Administration,1,3,BA 422,International Economics (Elective),3,Principles of Macroeconomics
+Business Administration,1,3,BA 423,Economics of Public Services (Elective),3,
+Business Administration,1,3,BA 424,International Organizations (Elective),3,Principles of Political Science
+Business Administration,2,3,BA 318,Strategic Management,3,Principles of Marketing; Principles of Management Accounting; Production and Operations Management; Human Resource Management; Principles of Financial Management
+Business Administration,2,3,BA 319,Entrepreneurship and Small Enterprises,3,Principles of Business Administration
+Business Administration,2,3,BA B15,Enterprise Information Systems (Elective),3,Management Information Systems
+Business Administration,2,3,BA B23,International Business Management (Elective),3,Principles of Business Administration
+Business Administration,2,3,BA B24,Project Management (Elective),3,Principles of Marketing; Human Resource Management; Principles of Financial Management; Quantitative Methods and Decision Making
+Business Administration,2,3,BA F16,Economics of Money and Banking (Elective),3,Principles of Macroeconomics
+Business Administration,2,3,BA 321,Total Quality Management (Elective),3,Production and Operations Management
+Business Administration,2,3,BA 322,Negotiation Management (Elective),3,Principles of Marketing; Production and Operations Management
+Business Administration,2,3,BA 323,Public Enterprise Management (Elective),3,Principles of Business Administration
+Business Administration,2,3,BA 324,Crisis Management (Elective),3,Principles of Business Administration
+Business Administration,2,3,BA 325,Organization Theory (Elective),3,Organizational Behavior
+Business Administration,2,3,BA 326,Accounting in Governmental and Non-Profit Units (Elective),3,Principles of Financial Accounting
+Business Administration,1,4,BA 413,Principles of Public Finance,3,Principles of Macroeconomics
+Business Administration,1,4,BA 414,Quantitative Methods and Decision Making,3,Applied Statistics
+Business Administration,1,4,BA F11,Advanced Financial Management (Elective),3,Principles of Financial Management
+Business Administration,1,4,BA F12,Portfolio Management and Derivatives (Elective),3,Advanced Financial Management
+Business Administration,1,4,BA F13,International Finance (Elective),3,Advanced Financial Management
+Business Administration,1,4,BA A13,Accounting Information Systems (Elective),3,Principles of Management Accounting; Management Information Systems
+Business Administration,1,4,BA H21,Strategic Human Resource Management (Elective),3,Human Resource Management
+Business Administration,1,4,BA H22,Performance and Incentives Management (Elective),3,Human Resource Management
+Business Administration,1,4,BA H23,Human Resource Training and Development (Elective),3,Human Resource Management
+Business Administration,1,4,BA H24,Leadership (Elective),3,Organizational Behavior
+Business Administration,1,4,BA H25,Change Management (Elective),3,Organizational Behavior
+Business Administration,2,4,BA 512,E-Business,3,Management Information Systems
+Business Administration,2,4,BA 315,Human Resource Management,3,
+Business Administration,2,4,BA 412,Applied Statistics,3,Mathematics of Business
